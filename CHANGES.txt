@@ -1,0 +1,10 @@
+--------------------
+GNU-Octave-ExcelLink
+GNU Octave class for communication with Microsoft Excel program.
+--------------------
+
+Release 1.0.0, 09.01.2022.
+
+- Initial release
+
+--------------------
