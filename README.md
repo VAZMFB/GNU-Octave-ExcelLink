@@ -15,8 +15,6 @@ Code relies on ActiveX which is available only on Windows operating systems.
 
 Provided code is tested with **GNU Octave 6.4.0**, **Microsoft Excel for Microsoft 365 Version 2111** and **Windows 10 20H2**.
 
-Provided code is tested with GNU Octave 6.4.0** and **Microsoft Excel for Microsoft 365 Version 2111**.
-
 ## Usage
 
 For usage please check provided examples. 
