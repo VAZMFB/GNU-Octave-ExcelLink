@@ -3,7 +3,7 @@
 GNU Octave class `ExcelLink` makes it possible to communicate with and control the Microsoft Excel program from GNU Octave, including reading and writing operations but also formatting. This way it is possible to create well-formatted tabular reports from GNU Octave using Microsoft Excel.
 
 <p align="center">
-  <img src="https://vazmfb.com/web/img/github/ExcelLink.png" width="800">
+  <img src="https://milospetrasinovic.com/web/img/vazmfb-github/ExcelLink.png" width="800">
 </p>
 
 ## Requirements
@@ -20,7 +20,7 @@ Provided code is tested with **GNU Octave 6.4.0**, **Microsoft Excel for Microso
 For usage please check provided examples. 
 
 ## License
-Copyright (C) 2022 Miloš Petrašinović <info@vazmfb.com>
+Copyright (C) 2022 Miloš Petrašinović <mpetrasinovic@mas.bg.ac.rs>
  
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as 
